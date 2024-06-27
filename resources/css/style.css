@@ -1,0 +1,44 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #000;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+a {
+    color: aquamarine;
+}
+
+video {
+    margin-top: 25px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    margin-bottom: 25px;
+}
+
+footer {
+    align-self: flex-end;
+}
